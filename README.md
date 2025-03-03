@@ -3,7 +3,8 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Pedro Henrique Medina dos Passos
+- Matricula: 892224
 
 ## Print da tela da página criad
+![alt text](image.png)

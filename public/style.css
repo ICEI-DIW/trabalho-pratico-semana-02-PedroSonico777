@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 1000px;
+    background-color: lightgrey;
+}
+
+#cabecario {
+    background-color: darkgray;
+    width: 100%;
+    height: 400px;
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+#eu {
+    height: 300px;
+    width: 350px;
+    margin-left: 50px;
+}
+
+#nome, #telefone, #email {
+    font-family: Calibri, Arial, sans-serif;
+    font-size: 15px;
+    color: black;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#introducao {
+    padding: 20px;
+    background-color: #f2f2f2;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+#habilidades {
+    padding: 20px;
+    background-color: #f2f2f2;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+#habilidades h2 {
+    font-size: 20px;
+    color: #333;
+}
+
+#habilidades ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#habilidades li {
+    font-family: Calibri, Arial, sans-serif;
+    font-size: 15px;
+    color: black;
+    margin-bottom: 10px;
+}
